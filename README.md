@@ -1,4 +1,5 @@
 # 📚 Book Tracker System in Java
+
 - A simple Java-based Library Management System where an Admin can manage books and Members can borrow or return books.
 
 ## 📌 Features
@@ -34,9 +35,11 @@ git clone https://github.com/your-username/BookTrackerInJava.git
 2. Remove Book
 3. View Books
 4. Exit
-- Enter your choice: 
-📌 Adding a Book
+5. Enter your choice:
+
 ```yaml
+📌 Adding a Book
+
 📤 User Input
 Enter title: Java Programming  
 Enter author: John Doe  
@@ -48,6 +51,7 @@ Book added successfully.
 ```
 ```yaml
 📌 Removing a Book
+
 📤 User Input
 Enter ISBN to remove: 12345
 
@@ -56,27 +60,13 @@ Book removed successfully.
 ```
 ```yaml
 📌 Viewing Books
+
 📥 Console Output
 Books in Library:
 Title: Java Programming, Author: John Doe, ISBN: 12345, Genre: Technology, Available: true
 Title: Python Basics, Author: Alice Brown, ISBN: 67890, Genre: Education, Available: false
 ```
-```yaml
-📌 Marking a Book as Borrowed (Future Feature)
-📤 User Input
-Enter ISBN to borrow: 12345  
 
-📥 Console Output
-Book borrowed successfully.
-```
-```yaml
-📌 Marking a Book as Returned (Future Feature)
-📤 User Input
-Enter ISBN to return: 12345  
-
-📥 Console Output
-Book returned successfully.
-```
 ---
-##📝 License
+## 📝 License
 This project is open-source under the MIT License.

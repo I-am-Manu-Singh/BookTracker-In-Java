@@ -10,10 +10,10 @@
 ## 🏗 Project Structure
 ```yaml
 📦 BookTrackerInJava  
- ┣ 📜 Admin.java  
- ┣ 📜 Book.java  
- ┣ 📜 LibrarySystem.java  
- ┣ 📜 Member.java  
+ ┣ 📜 Admin.java         // Manages books (add, remove, view books)  
+ ┣ 📜 Book.java          // Represents a book with title, author, ISBN, genre, and availability  
+ ┣ 📜 LibrarySystem.java // Main class to run the program and provide the admin menu  
+ ┣ 📜 Member.java        // Represents a library member who can borrow or return books  
 ```
 ---
 # 🚀 Getting Started

@@ -20,13 +20,20 @@
 1️⃣ Prerequisites
 - Java Development Kit (JDK 8+)
 - Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
-2️⃣ How to Run
+---
+
+## 🏃🏻‍♂️ How to Run
+
 1️⃣ Clone the repository:
+
 ```yaml
 git clone https://github.com/your-username/BookTrackerInJava.git
 ```
+
 2️⃣ Open the project in your Java IDE.
+
 3️⃣ Compile and run LibrarySystem.java.
+
 ---
 ## 🖥️ Console Output for Each Function
 

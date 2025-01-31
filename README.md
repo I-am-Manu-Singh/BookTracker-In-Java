@@ -16,6 +16,46 @@
  ┣ 📜 Member.java        // Represents a library member who can borrow or return books  
 ```
 ---
+## 🔹 File Use Cases
+1️⃣ Admin.java
+- 📌 Purpose: Manages book collection (add, remove, and retrieve books).
+- 📌 Functions:
+```yaml
+- addBook(Book book): Adds a new book to the library.
+- removeBook(String isbn): Removes a book using its ISBN.
+- getBooks(): Returns a list of all books in the library.
+```
+
+2️⃣ Book.java
+- 📌 Purpose: Represents a book with properties like title, author, ISBN, genre, and availability.
+- 📌 Functions:
+```yaml
+- getIsbn(): Returns the book’s ISBN.
+- isAvailable(): Checks if the book is available for borrowing.
+- setAvailable(boolean available): Updates the availability of the book.
+- toString(): Returns a formatted string with book details.
+```
+
+3️⃣ LibrarySystem.java
+- 📌 Purpose: The main class that provides a menu-based system for admin actions.
+- 📌 Functions:
+```yaml
+- adminMenu(): Displays admin options to add, remove, and view books.
+- addBook(): Asks the admin for book details and adds a book.
+- removeBook(): Allows the admin to remove a book using its ISBN.
+- viewBooks(): Displays all books in the library.
+```
+
+4️⃣ Member.java
+- 📌 Purpose: Represents a library member who can borrow and return books.
+- 📌 Functions:
+```yaml
+- borrowBook(Book book): Adds a book to the member’s borrowed list.
+- returnBook(Book book): Removes a book from the borrowed list.
+- getBorrowedBooks(): Returns the list of books borrowed by the member.
+```
+
+---
 
 ## 🏃🏻‍♂️ How to Run
 

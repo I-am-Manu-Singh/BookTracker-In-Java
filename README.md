@@ -3,9 +3,9 @@
 - A simple Java-based Library Management System where an Admin can manage books and Members can borrow or return books.
 
 ## 📌 Features
-✔️ Admin can add, remove, and view books.
-✔️ Members can borrow and return books.
-✔️ Books have title, author, ISBN, genre, and availability status.
+- ✔️ Admin can add, remove, and view books.
+- ✔️ Members can borrow and return books.
+- ✔️ Books have title, author, ISBN, genre, and availability status.
 ---
 ## 🏗 Project Structure
 ```yaml
@@ -29,13 +29,17 @@ git clone https://github.com/your-username/BookTrackerInJava.git
 3️⃣ Compile and run LibrarySystem.java.
 ---
 ## 🖥️ Console Output for Each Function
+
+```yaml
 📌 Admin Menu (Main Menu)
+
 - Admin Menu:
 1. Add Book
 2. Remove Book
 3. View Books
 4. Exit
 5. Enter your choice:
+```
 
 ```yaml
 📌 Adding a Book

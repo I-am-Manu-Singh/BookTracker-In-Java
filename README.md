@@ -16,11 +16,6 @@
  ┣ 📜 Member.java        // Represents a library member who can borrow or return books  
 ```
 ---
-# 🚀 Getting Started
-1️⃣ Prerequisites
-- Java Development Kit (JDK 8+)
-- Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
----
 
 ## 🏃🏻‍♂️ How to Run
 

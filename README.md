@@ -116,3 +116,14 @@ Title: Python Basics, Author: Alice Brown, ISBN: 67890, Genre: Education, Availa
 ---
 ## 📝 License
 This project is open-source under the MIT License.
+
+## Screenshots 
+![Banner](https://github.com/PalankiBharat/HeroIo/blob/master/screenshots/Collage.png)
+
+---
+
+## Video 
+<div align="center">
+</br>
+<img src="https://github.com/PalankiBharat/HeroIo/blob/master/screenshots/Check%20about%20your%20favrite%20Hero.gif" width="450" height="800" />
+</div>
